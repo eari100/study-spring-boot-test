@@ -1,0 +1,5 @@
+spring:
+  test:
+    database:
+      replace: NONE
+      connection: H2
